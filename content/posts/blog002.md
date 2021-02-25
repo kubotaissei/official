@@ -8,7 +8,7 @@ menu:
   sidebar:
     name: 院試
     identifier: make-site
-    weight: 500
+    weight: 2
 ---
 
 markdown形式での記述に慣れるために，だいぶ前のことにはなリますが，大学院入試でのことを書きたいと思います．
