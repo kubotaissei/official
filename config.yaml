@@ -1,4 +1,4 @@
-baseURL: http://example.org/
+baseURL: https://kubotaissei.github.io/official/
 languageCode: "ja"
 defaultContentLanguage: en
 title: "Kubota Issei"
@@ -52,7 +52,7 @@ params:
     favicon: /images/site/favicon.png
 
   # GitHub repo URL of your site
-  gitRepo: https://github.com/hugo-toha/hugo-toha.github.io
+  gitRepo: https://kubotaissei.github.io/official/
   gitBranch: main
 
   # specify whether you want to write some blog posts or not

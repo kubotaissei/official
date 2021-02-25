@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Kubota Issei</title>
-    <link>http://example.org/posts/</link>
+    <link>https://kubotaissei.github.io/official/posts/</link>
     <description>Recent content in Posts on Kubota Issei</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 25 Feb 2021 04:04:10 +0900</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 25 Feb 2021 04:04:10 +0900</lastBuildDate><atom:link href="https://kubotaissei.github.io/official/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>院試の話</title>
-      <link>http://example.org/posts/blog002/</link>
+      <link>https://kubotaissei.github.io/official/posts/blog002/</link>
       <pubDate>Thu, 25 Feb 2021 04:04:10 +0900</pubDate>
       
-      <guid>http://example.org/posts/blog002/</guid>
+      <guid>https://kubotaissei.github.io/official/posts/blog002/</guid>
       <description>markdown形式での記述に慣れるために，だいぶ前のことにはなリますが，大学院入試でのことを書きたいと思います．
 大学院入試について 2020年8月に，京都大学情報学研究科知能情報学専攻の修士課程の大学院を受験，合格しました． これに関して，考えていたこと，参考にした資料などをまとめておきます．
 概要 知能情報学専攻は，おおよそ人間の情報処理に関連する研究を行っており，大学院入試の倍率でも毎年高い人気を誇っています．
@@ -38,10 +38,10 @@
     
     <item>
       <title>サイトを作成</title>
-      <link>http://example.org/posts/blog001/</link>
+      <link>https://kubotaissei.github.io/official/posts/blog001/</link>
       <pubDate>Tue, 23 Feb 2021 20:07:43 +0900</pubDate>
       
-      <guid>http://example.org/posts/blog001/</guid>
+      <guid>https://kubotaissei.github.io/official/posts/blog001/</guid>
       <description>就活等のために，自己紹介やポートフォリオ発表のために，自分のサイトを作成することにした．
 Hugoを用いてこちらのサイトを参考にした．
 テンプレートのテーマとしてはTohaを利用させていただいた．</description>
