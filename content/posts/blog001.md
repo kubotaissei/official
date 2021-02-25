@@ -8,7 +8,7 @@ menu:
   sidebar:
     name: サイト作成
     identifier: enter-graduate
-    weight: 500
+    weight: 1
 ---
 
 就活等のために，自己紹介やポートフォリオ発表のために，自分のサイトを作成することにした．
