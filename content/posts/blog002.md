@@ -49,7 +49,7 @@ markdown形式での記述に慣れるために，だいぶ前のことにはな
 
 |微分積分学|線形代数学|
 |---|---|
-|![](/images/biseki.jpg)|![](/images/senkei.jpg)|
+|![](https://kubotaissei.github.io/official/images/biseki.jpg)|![](https://kubotaissei.github.io/official/images/senkei.jpg)|
 
 黄色本を2周もすればほぼ満点近くを取れるのではないかと思います．ただ，ここ3年ほどの傾向からして，出題範囲はさらに狭いため(線形代数はほぼ行列が出ているなど)，さらに絞っても良いかもしれません．
 
@@ -59,11 +59,11 @@ markdown形式での記述に慣れるために，だいぶ前のことにはな
 主要なソート(クイックソート，マージソートなど)の擬似コードはきちんと理解し，書けるようになった方が良いと思います．
 
 一応参考書としては以下のものを参考にしましたが，鹿島教授の[サイト](https://hkashima.github.io/course_algorithm_2020.html)も参考になると思います．
-![](/images/algorithm.jpg)
+![](https://kubotaissei.github.io/official/images/algorithm.jpg)
 #### 統計学
 以下の参考書の問題をひたすら解いていました．非常に良い参考書だと思います．
 
-![](/images/toukei.jpg)
+![](https://kubotaissei.github.io/official/images/toukei.jpg)
 
 #### 情報理論
 西田先生の[サイト](https://sites.google.com/view/toyoakinishida-j/情報符号理論)が非常に参考になります．
