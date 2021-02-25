@@ -4,6 +4,7 @@ defaultContentLanguage: en
 title: "Kubota Issei"
 publishDir: "docs"
 theme: "toha"
+disqusShortname: "https-kubotaissei-github-io-official"
 
 # Manage languages
 # For any more details, you can check the official documentation: https://gohugo.io/content-management/multilingual/
