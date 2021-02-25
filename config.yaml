@@ -4,7 +4,6 @@ defaultContentLanguage: en
 title: "Kubota Issei"
 publishDir: "docs"
 theme: "toha"
-disqusShortname: "https-kubotaissei-github-io-official"
 
 # Manage languages
 # For any more details, you can check the official documentation: https://gohugo.io/content-management/multilingual/
@@ -34,7 +33,7 @@ markup:
 googleAnalytics: UA-XXXXXXXXX-X
 
 # Enable Disqus forum
-disqusShortname: does-not-exist
+disqusShortname: https-kubotaissei-github-io-official
 
 # Enable global emoji support
 enableEmoji: true
