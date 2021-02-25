@@ -52,8 +52,8 @@ params:
     favicon: /images/site/favicon.png
 
   # GitHub repo URL of your site
-  gitRepo: https://kubotaissei.github.io/
-  gitBranch: master
+  # gitRepo: https://kubotaissei.github.io/
+  # gitBranch: master
 
   # specify whether you want to write some blog posts or not
   enableBlogPost: true
