@@ -1,33 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://kubotaissei.github.io/official/</loc>
-    <lastmod>2021-02-25T04:04:10+09:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-03-19T05:20:15+09:00</lastmod>
+  </url><url>
+    <loc>https://kubotaissei.github.io/official/posts/blog003/</loc>
+    <lastmod>2021-03-19T05:20:15+09:00</lastmod>
+  </url><url>
     <loc>https://kubotaissei.github.io/official/posts/</loc>
-    <lastmod>2021-02-25T04:04:10+09:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-03-19T05:20:15+09:00</lastmod>
+  </url><url>
     <loc>https://kubotaissei.github.io/official/posts/blog002/</loc>
     <lastmod>2021-02-25T04:04:10+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kubotaissei.github.io/official/posts/blog001/</loc>
     <lastmod>2021-02-23T20:07:43+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kubotaissei.github.io/official/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kubotaissei.github.io/official/tags/</loc>
   </url>
-  
 </urlset>

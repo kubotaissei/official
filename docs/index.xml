@@ -6,7 +6,22 @@
     <description>Recent content on Kubota Issei</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 25 Feb 2021 04:04:10 +0900</lastBuildDate><atom:link href="https://kubotaissei.github.io/official/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 19 Mar 2021 05:20:15 +0900</lastBuildDate><atom:link href="https://kubotaissei.github.io/official/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MacBookのSSDを増設した話</title>
+      <link>https://kubotaissei.github.io/official/posts/blog003/</link>
+      <pubDate>Fri, 19 Mar 2021 05:20:15 +0900</pubDate>
+      
+      <guid>https://kubotaissei.github.io/official/posts/blog003/</guid>
+      <description>ふと思い立ち，MacBookProのSSDを増設することにした．その際の話を書いておこうと思う．
+背景 自分はこれまで大学に入学した際に購入したMacBook Pro (13-inch, 2017, Two Thunderbolt 3 ports)を使用していた．
+大学入学時はお金がなかったこともあり，最低限のスペックのSSDが128GBのものを購入した．
+これまで4年間，クラウドサービスや外付けHDDで誤魔化してきたが，仕事で使うためUbuntuとのデュアルブートができるような 新しいMacを購入しようかと思っていた矢先，自分の持っている機種はSSDの増設ができる最後の機種だと言うことを知り，SSDの増設に 取り掛かった．
+苦労した点，SSDの性能比較，使用したものなどについて書こうと思う．
+SSD等の購入 今回，こちらのサイトを参考にさせていただいた．
+SSD，コネクタ，工具の3つをAmazonで購入した．</description>
+    </item>
+    
     <item>
       <title>院試の話</title>
       <link>https://kubotaissei.github.io/official/posts/blog002/</link>
